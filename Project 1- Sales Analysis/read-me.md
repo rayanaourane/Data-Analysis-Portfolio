@@ -1,17 +1,17 @@
 This project pertains to the analysis of monthly sales data from an electronics store in 2019 using Python.   
 
-####Content:
+Content:
 
 Cleaning and Transforming the Data
 Univariate Analysis
 KPI
-a. What is the average revenue per order?
-b. What is the monthly sales revenue?
-c. What category of products had the largest sales volume?
-d. What items had the largest sales volume?
-e. What category of products made the most sales revenue?
-f. What items made the most and the least sales revenue?
-g. What is the average monthly growth rate?
-h. What are the top 10 states by sales?
-i. What is the number of monthly active customers?
-j. How many of these customers are new, how many are returning customers?What is the new customers growth rate?
+a. What is the average revenue per order?   
+b. What is the monthly sales revenue?   
+c. What category of products had the largest sales volume?    
+d. What items had the largest sales volume?    
+e. What category of products made the most sales revenue?   
+f. What items made the most and the least sales revenue?   
+g. What is the average monthly growth rate?   
+h. What are the top 10 states by sales?   
+i. What is the number of monthly active customers?   
+j. How many of these customers are new, how many are returning customers?What is the new customers growth rate?    
