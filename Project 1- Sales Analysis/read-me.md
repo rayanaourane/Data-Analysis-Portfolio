@@ -1,5 +1,6 @@
 This project pertains to the analysis of monthly sales data from an electronics store in 2019 using Python.   
-Content:
+
+####Content:
 
 Cleaning and Transforming the Data
 Univariate Analysis
