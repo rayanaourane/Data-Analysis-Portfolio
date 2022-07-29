@@ -2,9 +2,9 @@ This project pertains to the analysis of monthly sales data from an electronics 
 
 Content:
 
-Cleaning and Transforming the Data
-Univariate Analysis
-KPI
+1. Cleaning and Transforming the Data   
+2. Univariate Analysis   
+3. KPI   
 a. What is the average revenue per order?   
 b. What is the monthly sales revenue?   
 c. What category of products had the largest sales volume?    
