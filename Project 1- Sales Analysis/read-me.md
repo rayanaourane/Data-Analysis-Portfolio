@@ -16,4 +16,5 @@ h. What are the top 10 states by sales?
 i. What is the number of monthly active customers?   
 j. How many of these customers are new, how many are returning customers?What is the new customers growth rate?    
 
-![Sales Analysis Dashboard](https://user-images.githubusercontent.com/109255047/197657466-d4501802-5dc6-4fd1-b89c-91de492abfed.png)
+![Sales Analysis Dashboard](https://user-images.githubusercontent.com/109255047/197909692-3946b300-3ed4-473e-b6a2-75cff4947983.png)
+
