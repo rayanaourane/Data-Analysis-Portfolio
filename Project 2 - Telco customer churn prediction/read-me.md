@@ -1,6 +1,6 @@
 # Telco Customer Churn Prediction
 
-This project aims at predicting the likelihood of customers to remain with their current telecom provider or to churn and switch to a competitor. The data was downloaded from Kaggle.com. 
+This project aims to predict the likelihood of customers to remain with their current telecom provider or to churn and switch to a competitor. The data was downloaded from Kaggle.com. 
 
 ### Content:
 
